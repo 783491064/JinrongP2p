@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">P2PInvest0520</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="invest_tab">
+
+        <item>全部理财</item>
+
+        <item>推荐理财</item>
+
+        <item>热门理财</item>
+
+    </string-array>
+</resources>

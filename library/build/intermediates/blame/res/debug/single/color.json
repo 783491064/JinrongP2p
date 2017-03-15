@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\StudioWorkSpace\\BjcP2PDemo\\library\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "D:\\StudioWorkSpace\\BjcP2PDemo\\library\\src\\main\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "D:\\StudioWorkSpace\\BjcP2PDemo\\library\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "D:\\StudioWorkSpace\\BjcP2PDemo\\library\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    }
+]
